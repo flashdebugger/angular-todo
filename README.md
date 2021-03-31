@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9d5fea6-39ad-4f71-ac75-b14c7149beab/deploy-status)](https://app.netlify.com/sites/todoapp-eleven/deploys)
+
+[Demo](https://todoapp-eleven.netlify.app/)
+
 # AngularTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
